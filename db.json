@@ -42,5 +42,14 @@
     "price": 44,
     "stock": 10
   }
+],
+"orders": [
+  {
+    "productId": "1",
+    "description": "Laptop",
+    "price": 2000.00,
+    "stock": 10
+  }
 ]
+
 }
